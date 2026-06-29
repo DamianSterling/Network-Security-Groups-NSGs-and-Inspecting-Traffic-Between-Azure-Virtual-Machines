@@ -85,21 +85,25 @@ Azure Subscription
 
 ### Screenshots
 
-📷 Azure Resource Group
+Azure Resource Group
 
-(Add Screenshot Here)
+<img width="1488" height="737" alt="Resource Group" src="https://github.com/user-attachments/assets/62f56578-5c48-45d6-9297-2105e21539c0" />
 
-📷 Virtual Network
 
-(Add Screenshot Here)
+Virtual Network
 
-📷 Windows Virtual Machine
+<img width="850" height="733" alt="Virtual Network" src="https://github.com/user-attachments/assets/ca930f96-5dd2-4087-91ad-4e53aac4cf02" />
 
-(Add Screenshot Here)
 
-📷 Ubuntu Virtual Machine
+Windows Virtual Machine
 
-(Add Screenshot Here)
+<img width="877" height="730" alt="Windows-VM" src="https://github.com/user-attachments/assets/c8a4eec3-d3a3-40fe-b6d3-03bfc4d862b2" />
+
+
+Ubuntu Virtual Machine
+
+<img width="988" height="742" alt="Linux-VM" src="https://github.com/user-attachments/assets/f7be37c0-6182-4627-94c8-5935fed82f75" />
+
 
 ---
 
