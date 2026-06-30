@@ -268,11 +268,9 @@ During this walkthrough I demonstrate:
 
 ---
 
-# Key Takeaways
+# Conclusion
 
-This lab strengthened my understanding of Azure networking and cloud infrastructure by providing hands-on experience deploying virtual machines, configuring virtual networks, capturing network traffic, troubleshooting connectivity issues, and managing Azure Network Security Groups.
-
-Working through this project reinforced how common networking protocols operate in a cloud environment and how Azure security controls influence communication between virtual machines.
+In this tutorial, we explore network traffic between Azure Virtual Machines using Wireshark, focusing on different protocols such as ICMP, SSH, DHCP, DNS, and RDP. We also experiment with Network Security Groups (NSGs) to control inbound and outbound traffic. This allows us to gain insight into how network traffic flows between virtual machines and how security rules can be used to restrict or permit specific types of traffic. This lab strengthened my understanding of Azure networking and cloud infrastructure by providing hands-on experience deploying virtual machines, configuring virtual networks, capturing network traffic, troubleshooting connectivity issues, and managing Azure Network Security Groups.
 
 ---
 
