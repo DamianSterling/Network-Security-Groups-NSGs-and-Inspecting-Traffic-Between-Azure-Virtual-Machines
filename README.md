@@ -122,11 +122,13 @@ Ubuntu Virtual Machine
 
 📷 Wireshark ICMP Filter
 
-(Add Screenshot Here)
+<img width="1510" height="931" alt="ICMP Filter" src="https://github.com/user-attachments/assets/b89b536a-79d4-49de-99be-14e27fb2831f" />
+
 
 📷 Successful Ping
 
-(Add Screenshot Here)
+<img width="1509" height="907" alt="Successful Ping" src="https://github.com/user-attachments/assets/40eb0e5b-2954-4ee4-8b19-38f3f9269b3f" />
+
 
 ---
 
