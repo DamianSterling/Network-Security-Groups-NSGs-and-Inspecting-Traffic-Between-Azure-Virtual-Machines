@@ -146,7 +146,8 @@ Ubuntu Virtual Machine
 
 📷 NSG Rule
 
-(Add Screenshot Here)
+<img width="582" height="740" alt="NSG Rule" src="https://github.com/user-attachments/assets/27dc8f80-1d50-4e8f-91d5-bc05ea4a84d9" />
+
 
 📷 Failed Ping
 
