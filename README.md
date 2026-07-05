@@ -151,11 +151,13 @@ Ubuntu Virtual Machine
 
 📷 Failed Ping
 
-(Add Screenshot Here)
+<img width="1508" height="911" alt="Failed Ping" src="https://github.com/user-attachments/assets/62b73d01-0fb4-41c8-a7b7-5650d164261e" />
+
 
 📷 Successful Ping After Rule Change
 
-(Add Screenshot Here)
+<img width="1512" height="909" alt="Screenshot 2026-07-05 at 6 49 27 AM" src="https://github.com/user-attachments/assets/d3c03a7f-4c87-474f-a6f4-9703898c54b1" />
+
 
 ---
 
@@ -171,11 +173,13 @@ Ubuntu Virtual Machine
 
 📷 SSH Connection
 
-(Add Screenshot Here)
+<img width="1508" height="905" alt="SSH" src="https://github.com/user-attachments/assets/f595977b-d896-4c11-9aa4-036c918669f1" />
+
 
 📷 Wireshark SSH Traffic
 
-(Add Screenshot Here)
+<img width="1512" height="982" alt="Screenshot 2026-07-05 at 9 14 33 AM" src="https://github.com/user-attachments/assets/b96cd150-eee1-4334-b0f7-c5f832040592" />
+
 
 ---
 
