@@ -210,7 +210,8 @@ Ubuntu Virtual Machine
 
 📷 DNS Query
 
-(Add Screenshot Here)
+<img width="1512" height="910" alt="Screenshot 2026-07-06 at 7 15 43 AM" src="https://github.com/user-attachments/assets/3f8b31c6-c853-4f19-9153-b2d174ce2845" />
+
 
 ---
 
@@ -225,7 +226,9 @@ Ubuntu Virtual Machine
 
 📷 RDP Traffic
 
-(Add Screenshot Here)
+<img width="1506" height="913" alt="Screenshot 2026-07-06 at 7 29 39 AM" src="https://github.com/user-attachments/assets/f6080245-e54e-439c-92d8-ac172b57bead" />
+
+
 
 ---
 
