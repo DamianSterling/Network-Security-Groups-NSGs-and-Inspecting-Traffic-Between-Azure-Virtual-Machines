@@ -194,7 +194,8 @@ Ubuntu Virtual Machine
 
 📷 DHCP Packet Capture
 
-(Add Screenshot Here)
+<img width="1512" height="886" alt="Screenshot 2026-07-06 at 7 05 57 AM" src="https://github.com/user-attachments/assets/fff020d0-f6ff-4f69-a357-59fc6dcc0221" />
+
 
 ---
 
